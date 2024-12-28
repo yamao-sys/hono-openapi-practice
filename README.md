@@ -10,6 +10,8 @@ Hono の OpenAPI による練習用リポジトリ
   - Swagger UI まで自動生成
 - BFF としての利用
   - エンドポイントは Hasura による GraphQLなど
+  - Next.jsフロントエンドのときはRPCが充実しているHonoでREST APIにするのが扱いやすそう
+    - GraphQLはNestJSの方がエコシステムも充実しているので(初期構築も早く、長期的にも戦いやすい)、NestJSをBFFとして良さそう
 
 ## 参考
 

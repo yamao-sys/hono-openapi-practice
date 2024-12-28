@@ -21,6 +21,8 @@ Hono の OpenAPI による練習用リポジトリ
   - https://speakerdeck.com/sugarcat7/honodeshi-xian-surubatukuendokai-fa-noima
 - Hono で作る REST API
   - https://zenn.dev/slowhand/articles/b7872e09b84e15
+- Honoで作るBFF
+  - https://zenn.dev/sh1n4ps/articles/8cde3be74de0ec
 - Zod
   - https://zenn.dev/uttk/articles/bd264fa884e026
 
